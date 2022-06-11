@@ -18,11 +18,10 @@ me = SoftwareEngineer()
 me.say_hi()
 
 
-
 ```
 
 - 📫 How to reach me: MahdiAskari.Ovan@Gmail.com
-- ⚡ Fun fact: My friends call me learner , but u can call me anytime u want ;)
+
 
 <!--
 **MahdiAskari-Ovan/MahdiAskari-Ovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
