@@ -6,9 +6,9 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = " "
+        self.name = "Mahdi Askari"
         self.role = "Software Engineer"
-        self.language_spoken = ["per,IR" , ""] 
+        self.language_spoken = ["per,IR" , "en,US"] 
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -17,7 +17,12 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 
+
+
 ```
+
+- 📫 How to reach me: MahdiAskari.Ovan@Gmail.com
+- ⚡ Fun fact: My friends call me learner , but u can call me anytime u want ;)
 
 <!--
 **MahdiAskari-Ovan/MahdiAskari-Ovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
